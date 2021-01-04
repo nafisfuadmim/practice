@@ -1,0 +1,35 @@
+h1{
+    font-family: 'East Sea Dokdo', cursive;
+    color: rgb(124, 139, 139);
+}
+h3{
+    font-family: 'East Sea Dokdo', cursive; 
+    color: rgb(49, 34, 34);
+
+}
+h4{
+    font-family: 'East Sea Dokdo', cursive;
+    color: rgb(114, 114, 114);
+
+}
+.ok{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.od{
+    width: 50%;
+    float: left;
+    padding-bottom: 100px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+}
+
+ .of{
+     width: 100%;
+    border-image-width: 100%;
+ 
+ 
+ 
+ 
+    }
